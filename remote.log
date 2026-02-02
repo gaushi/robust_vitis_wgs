@@ -1,0 +1,1 @@
+a5cb354b-12e3-425a-a2f8-bc573772a37f autoenable=true bucket=robus-vitis-wgs chunksize=0 datacenter=US encryption=none host=s3.us-east-005.backblazeb2.com name=b2-public partsize=512MiB port=80 protocol=https public=yes requeststyle=path signature=v4 storageclass=STANDARD type=S3 timestamp=1770060094s
