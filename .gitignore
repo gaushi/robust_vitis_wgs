@@ -1,0 +1,13 @@
+/.env
+tmp/
+.ipynb_checkpoints/
+.Rhistory
+.nfs*
+nano.save
+.DS_Store
+.nextflow.log*
+*.gff_db
+.snakemake
+.RData
+renv/library
+renv/staging
